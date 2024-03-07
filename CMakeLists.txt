@@ -3,4 +3,5 @@ project(oop)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(oop main.cpp)
+add_executable(oop main.cpp
+        test.h)
